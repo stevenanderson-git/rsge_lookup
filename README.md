@@ -22,3 +22,8 @@ Checking git actions here
 - Push from WSL Successful.
     - Editing in windows VS code.
     - Commiting from windows VS code.
+- Push from Windows VSCode successful.
+    - Editing in WSL Ubuntu with Windows VScode
+    - Commiting from WSL Ubuntu Windows VS Code
+
+    
