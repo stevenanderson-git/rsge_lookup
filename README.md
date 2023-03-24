@@ -19,3 +19,6 @@ Alternative:
 
 
 Checking git actions here
+- Push from WSL Successful.
+    - Editing in windows VS code.
+    - Commiting from windows VS code.
